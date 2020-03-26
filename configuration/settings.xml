@@ -11,7 +11,7 @@
       <!--This sends everything else to /public -->
       <id>nexus</id>
       <mirrorOf>*</mirrorOf>
-      <url>http://nexus-cicd.apps.ocp4.igalvan.com/content/groups/public/</url>
+      <url>https://mvnrepository.com/artifact/</url>
     </mirror>
   </mirrors>
   <profiles>
